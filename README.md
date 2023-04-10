@@ -40,7 +40,9 @@ ficaria com trigger e, como ficaria com uma stored procedure?
 
 # :construction_worker: Construção
 
+<p align="center">
 <img src="https://github.com/ViniciusDinizz/sql-campeonato-futebol/blob/main/images/mer.PNG?raw=true"/> 
 
 
 <img src="https://github.com/ViniciusDinizz/sql-campeonato-futebol/blob/main/images/mapeamento.PNG?raw=true"/>
+ <p/> 
