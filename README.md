@@ -25,5 +25,7 @@ ficaria com trigger e, como ficaria com uma stored procedure?
 - Qual é o jogo que teve mais gols?
 - Qual é o maior número de gols que cada time fez em um único jogo?
 
+<p align = "center">
 <img src="https://github.com/ViniciusDinizz/sql-campeonato-futebol/blob/main/images/tabelajogos.PNG?raw=true"/>
+</p>  
 
