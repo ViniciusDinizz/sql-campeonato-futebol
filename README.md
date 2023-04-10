@@ -41,8 +41,8 @@ ficaria com trigger e, como ficaria com uma stored procedure?
 # :construction_worker: Construção
 
 -MER
-<img src=""/> 
+<img src="https://github.com/ViniciusDinizz/sql-campeonato-futebol/blob/main/images/mer.PNG?raw=true"/> 
 
 
 -MAPEAMENTO
-<img src=""/>
+<img src="https://github.com/ViniciusDinizz/sql-campeonato-futebol/blob/main/images/mapeamento.PNG?raw=true"/>
