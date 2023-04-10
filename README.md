@@ -1,9 +1,9 @@
-# CONTROLANDO CAMPEONATO DE FUTEBOL
+# :exclamation: CONTROLANDO CAMPEONATO DE FUTEBOL
 
 -Trabalho com o intuíto de aprimorar a manipulação de dados através de procedures e triggers
 fomentando assim a associação com o modelo entidade relacionamento.
 
-# DESCRIÇÃO DO PROJETO
+# :speech_balloon: DESCRIÇÃO DO PROJETO
 
 Neste projeto os alunos deverão individualmente elaborar o banco para controlar cadastro de times de 
 futebol de um campeonato amador:
