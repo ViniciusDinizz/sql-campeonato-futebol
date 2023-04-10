@@ -29,3 +29,20 @@ ficaria com trigger e, como ficaria com uma stored procedure?
 <img src="https://github.com/ViniciusDinizz/sql-campeonato-futebol/blob/main/images/tabelajogos.PNG?raw=true"/>
 </p>  
 
+
+# :hammer: FUNCIONALIDADES
+-CADASTRAR CAMPEONATO
+-CADASTRAR EQUIPES
+-INSCREVER EQUIPES NO CAMPEONATO
+-MARCAR JOGOS
+-ESTATÍSTICAS CAMPEONATO
+-ESTATÍSTICAS GOLS CAMPEONATO
+
+# :construction_worker: Construção
+
+-MER
+<img src=""/> 
+
+
+-MAPEAMENTO
+<img src=""/>
