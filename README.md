@@ -30,14 +30,6 @@ ficaria com trigger e, como ficaria com uma stored procedure?
 </p>  
 
 
-# :hammer: FUNCIONALIDADES
--CADASTRAR CAMPEONATO
--CADASTRAR EQUIPES
--INSCREVER EQUIPES NO CAMPEONATO
--MARCAR JOGOS
--ESTATÍSTICAS CAMPEONATO
--ESTATÍSTICAS GOLS CAMPEONATO
-
 # :construction_worker: Construção
 
 <p align="center">
